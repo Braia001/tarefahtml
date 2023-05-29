@@ -1,0 +1,282 @@
+
+
+body{
+    background-color: antiquewhite;
+        
+}
+p1{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+} /* Informacoes */
+
+p2{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+} /* Introducao */
+
+h3{
+    position: absolute;
+    top: 35%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0); 
+}
+
+h1{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+} /* Prazer! Meu nome e Brayan */
+
+h2{
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+} /* Objetivo */
+
+h3{
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+} /* Formacao */
+
+h10{
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0); 
+}
+
+
+h11{
+    position: absolute;
+    top: 55%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+h12{
+    position: absolute;
+    top: 65%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0); 
+}
+
+p20{
+    position: absolute;
+    top: 47%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);  
+}
+
+p30{
+    position: absolute;
+    top: 57%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);  
+}
+
+p40{
+    position: absolute;
+    top: 67%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);  
+}
+
+h6{
+    position: absolute;
+    top: 70%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);  
+}
+
+p16{
+    position: absolute;
+    top: 75%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);   
+}
+
+h7{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);   
+}
+
+p17{
+    position: absolute;
+    top: 85%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);    
+}
+
+p18{
+    position: absolute;
+    top: 87%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);   
+}
+
+p19{
+    position: absolute;
+    top: 89%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);   
+}
+
+p21{
+    position: absolute;
+    top: 91%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);   
+}
+
+p22{
+    position: absolute;
+    top: 93%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);   
+}
+
+p23{
+    position: absolute;
+    top: 95%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: italic;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);   
+}
+
